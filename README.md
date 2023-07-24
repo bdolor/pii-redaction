@@ -24,14 +24,3 @@ ref: https://www.kaggle.com/datasets/dataturks/resume-entities-for-ner
 CSV located at `data/FakeNameGenerator.com_July_2023.csv`
 Fake Name Generator identities by the Fake Name Generator are licensed under a Creative Commons Attribution-Share Alike 3.0 United States License. Fake Name Generator and the Fake Name Generator logo are trademarks of Corban Works, LLC.
 
-### Longformer
-Longformer is released under an Apache 2.0 license. Copyright Allen Institute for AI.
-ref: https://github.com/allenai/longformer
-```
-@article{Beltagy2020Longformer,
-  title={Longformer: The Long-Document Transformer},
-  author={Iz Beltagy and Matthew E. Peters and Arman Cohan},
-  journal={arXiv:2004.05150},
-  year={2020},
-}
-```

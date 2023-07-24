@@ -1,10 +1,4 @@
 venv
 .idea
 data/redacted-cvs/*.pdf
-data/models/longformer
-data/models/spacy/lg/*
-data/models/spacy/md/*
-data/models/spacy/sm/*
-data/models/spacy/output/*
-data/models/spacy/rehearse/*
-data/models/spacy/trf/*
+data/models/*
