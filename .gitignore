@@ -1,4 +1,3 @@
 venv
 .idea
 data/redacted-cvs/*.pdf
-data/models/*
