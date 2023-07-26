@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Path to notebook: [https://www.github.com/microsoft/presidio/blob/main/docs/samples/python/example_pdf_annotation.ipynb](https://www.github.com/microsoft/presidio/blob/main/docs/samples/python/example_pdf_annotation.ipynb)
+# This script is slightly modified by Brad Payne from the original
+# Original is licensed with an MIT license, copyright Microsoft Corporation
+# Path to original: [https://www.github.com/microsoft/presidio/blob/main/docs/samples/python/example_pdf_annotation.ipynb](https://www.github.com/microsoft/presidio/blob/main/docs/samples/python/example_pdf_annotation.ipynb)
 
 # # Annotating PII in a PDF
 #
@@ -47,7 +49,7 @@ from pikepdf import Pdf, AttachedFileSpec, Name, Dictionary, Array
 #
 
 
-for i in range(2, 3):
+for i in range(1, 98):
     if os.path.exists(f"../../data/original-cvs/c{i}.pdf"):
         analyzer = AnalyzerEngine()
         analyzed_character_sets = []
