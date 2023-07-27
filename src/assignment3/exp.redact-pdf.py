@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# This script is slightly modified by Brad Payne from the original
+# to run, navigate to the directory where the file lives and run `python ./exp.redact-pdf.py`
+
+# This script is modified by Brad Payne from the original
 # Original is licensed with an MIT license, copyright Microsoft Corporation
 # Path to original: [https://www.github.com/microsoft/presidio/blob/main/docs/samples/python/example_pdf_annotation.ipynb](https://www.github.com/microsoft/presidio/blob/main/docs/samples/python/example_pdf_annotation.ipynb)
 
