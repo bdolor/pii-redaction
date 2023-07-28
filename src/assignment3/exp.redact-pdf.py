@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# to run, navigate to the directory where the file lives and run `python ./exp.redact-pdf.py`
+# to run, navigate to the directory where the file lives and run `./exp.redact-pdf.py`
+# if you have trouble, check that the file has executable permissions
 
 # This script is modified by Brad Payne from the original
 # Original is licensed with an MIT license, copyright Microsoft Corporation
